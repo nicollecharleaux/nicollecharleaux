@@ -1,9 +1,6 @@
 # Olá, eu sou a Nicolle!
 - Estudante de Desenvolvimento de Sistemas
-- Focada em
- <div style="display: inline_block"><br>
- <img align="center" alt="Python" height="40" width="40"
-  
+- Focada em Python
 - Preparando-se para o mercado de tecnologia
 
   
